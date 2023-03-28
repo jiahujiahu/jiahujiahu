@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiahujiahu&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiahujiahu&hide=prs,issues,contribs&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiahujiahu&hide=prs,issues,contribs&count_private=true&show_icons=true&hide_rank=true)
